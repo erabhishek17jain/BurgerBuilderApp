@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/erabhishek17jain.github.io/BurgerBuilderApp/static/css/main.de0ebd47.chunk.css",
+    "main.js": "/erabhishek17jain.github.io/BurgerBuilderApp/static/js/main.941f8521.chunk.js",
+    "main.js.map": "/erabhishek17jain.github.io/BurgerBuilderApp/static/js/main.941f8521.chunk.js.map",
+    "runtime-main.js": "/erabhishek17jain.github.io/BurgerBuilderApp/static/js/runtime-main.fb46e8eb.js",
+    "runtime-main.js.map": "/erabhishek17jain.github.io/BurgerBuilderApp/static/js/runtime-main.fb46e8eb.js.map",
+    "static/js/2.3a1e55a3.chunk.js": "/erabhishek17jain.github.io/BurgerBuilderApp/static/js/2.3a1e55a3.chunk.js",
+    "static/js/2.3a1e55a3.chunk.js.map": "/erabhishek17jain.github.io/BurgerBuilderApp/static/js/2.3a1e55a3.chunk.js.map",
+    "index.html": "/erabhishek17jain.github.io/BurgerBuilderApp/index.html",
+    "precache-manifest.308c0943d545fe1f06965beae51fdb5a.js": "/erabhishek17jain.github.io/BurgerBuilderApp/precache-manifest.308c0943d545fe1f06965beae51fdb5a.js",
+    "service-worker.js": "/erabhishek17jain.github.io/BurgerBuilderApp/service-worker.js",
+    "static/css/main.de0ebd47.chunk.css.map": "/erabhishek17jain.github.io/BurgerBuilderApp/static/css/main.de0ebd47.chunk.css.map",
+    "static/js/2.3a1e55a3.chunk.js.LICENSE.txt": "/erabhishek17jain.github.io/BurgerBuilderApp/static/js/2.3a1e55a3.chunk.js.LICENSE.txt",
+    "static/media/burger-logo.png": "/erabhishek17jain.github.io/BurgerBuilderApp/static/media/burger-logo.b8503d26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb46e8eb.js",
+    "static/js/2.3a1e55a3.chunk.js",
+    "static/css/main.de0ebd47.chunk.css",
+    "static/js/main.941f8521.chunk.js"
+  ]
+}
